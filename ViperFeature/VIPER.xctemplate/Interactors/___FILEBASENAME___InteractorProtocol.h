@@ -8,10 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
 @protocol ___FILEBASENAMEASIDENTIFIER___InteractorProtocol <NSObject>
 
 @end
-
-NS_ASSUME_NONNULL_END
